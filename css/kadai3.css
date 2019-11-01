@@ -1,0 +1,29 @@
+h1{
+    color:blue;
+    font-family: "Impact";
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h2{
+    color:orange;
+    text-align: center;
+    background-color: yellow;
+}
+
+h3{
+    color: darkslategrey;
+    text-align: left;
+    
+}
+
+p{
+    font-size:25px;
+    font-weight: normal;
+}
+
+body{
+    background-image: url("../images/02.jpg");
+    background-attachment: fixed;
+    background-position: center;
+}
