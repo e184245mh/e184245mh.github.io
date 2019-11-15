@@ -1,0 +1,19 @@
+h1{
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+}
+h2{
+    color: black;
+    text-align: center;
+    background-color: aliceblue;
+}
+body{
+    background-image: url("../images/02.jpg");
+}
+table{
+    background-color: aqua;
+}
+ol{
+    background-image: url("../images/03.jpg");
+}
