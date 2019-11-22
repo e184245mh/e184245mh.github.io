@@ -1,0 +1,26 @@
+h1.bluecolor{
+    background-color:aqua;
+    text-align: center;
+}
+
+h1#ishibashi{
+    font-family: "impact";
+    background-color:aquamarine;
+    text-align: center;
+}
+
+h2.ota{
+    background-color: darkturquoise;
+    color:black;
+    text-align: center;
+}
+
+h2.sabage{
+    background-color: black;
+    color:green;
+    text-align: center;
+}
+
+body{
+    background-image: url("../images/02.jpg");
+}
