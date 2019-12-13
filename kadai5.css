@@ -1,0 +1,74 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: gray;
+    font-size: 15px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+    margin: 0px auto;
+}
+div.aaa{
+    width: 1000px;
+    height: 320px;
+    background-color: aquamarine;
+    font-size: 0;
+    font-family: "Impact";
+    margin-bottom: 20px;
+    margin: 0px auto;
+}
+div.left{
+    display: inline-block;
+    width: 250px;
+    height: 320px;
+    background-color: gray;
+    vertical-align: top;
+    font-size: 15px;
+    font-family: "Impact";
+}
+div.menu1{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    vertical-align: top;
+}
+div.menu2{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    margin-top: 10px;
+}
+div.menu3{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    margin-top: 10px;
+}
+div.right{
+    display: inline-block;
+    width: 700px;
+    height: 320px;
+    background-color: gray;
+    vertical-align: top;
+    margin-left: 50px;
+}
+div.image{
+    width: 700px;
+    height: 300px;
+    background-color: black;
+}
+div.text{
+    width: 700px;
+    height: 20px;
+    background-color: blue;
+    font-size: 15px;
+    font-family: "Impact";
+}
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: orange;
+    text-align: end;
+    font-size: 15px;
+    font-family: "Impact";
+    margin: 0px auto;
+}
